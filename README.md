@@ -1,16 +1,19 @@
-## Hi there 👋
+ Hi there 👋
 
-<!--
-**AbdulRehman-py/AbdulRehman-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abdul Rehman, a passionate developer with a keen interest in both web development and AI. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+ About Me
+- 🔭 I’m currently working on enhancing my skills in front-end development.
+- 🌱 I’m currently learning **React** to build more dynamic and interactive web applications.
+- 👯 I’m looking to collaborate on open-source projects related to web development and AI.
+- 🤔 I’m looking for help with integrating AI solutions into front-end projects.
+- 💬 Ask me about HTML, CSS, JavaScript, and Python.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdul-rehman-94b92a248/), [Email](mailto:abdulrehmans30@outlook.com).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring new technologies and applying them to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Projects
+ Interactive Comments Section (https://abdulrehman-py.github.io/interactive-comments/)
+An interactive comment section that allows users to create, read, update, and delete comments in real-time. Check out the [GitHub repository](https://github.com/AbdulRehman-py/interactive-comments).
+
+Thank you for visiting my profile!
