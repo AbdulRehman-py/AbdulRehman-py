@@ -18,7 +18,7 @@ About Me
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I love exploring new technologies and applying them to solve real-world problems.
+⚡ Fun fact: I love exploring new technologies and applying them to solve real-world problems
 
 Current Focus
 I specialize in building responsive web applications using React, with a strong emphasis on clean and intuitive UI/UX design utilizing Tailwind CSS. My expertise extends to integrating APIs for real-time data and developing efficient, secure solutions. I am currently learning TypeScript to further enhance my development capabilities. Dedicated to crafting seamless user experiences, I continuously explore new technologies to refine and enhance my skills. I’m building projects in React and learning Node.js to create dynamic, high-performance web applications. Stay tuned for exciting updates as I continue to grow and innovate in the world of web development!
