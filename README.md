@@ -21,7 +21,7 @@ I'm Abdul Rehman, Frontend Developer. Welcome to my GitHub profile!
 ⚡ Fun fact: I love diving into new technologies and using them to solve real-world challenges.  
 
 ### Current Focus  
-I currently contribute to the front-end development of [InSite](https://example.com), where I focus on creating and enhancing features for browser extensions. My expertise includes TypeScript, which I’ve recently mastered to further elevate my development skills.  
+I currently contribute to the front-end development of [InSite](https://www.insite.life/), where I focus on creating and enhancing features for browser extensions. My expertise includes TypeScript, which I’ve recently mastered to further elevate my development skills.  
 
 I specialize in building responsive web applications using React and Tailwind CSS, integrating APIs for dynamic real-time data, and developing secure, high-performance solutions. Additionally, I'm advancing my skills in Node.js to design dynamic, scalable web applications.  
 
