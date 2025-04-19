@@ -13,12 +13,13 @@ About Me
 😄 Pronouns: He/Him
 ⚡ Fun fact: I love diving into new technologies and using them to solve real-world challenges.
 
-Current Focus
-
+Current Focus:
 I currently contribute to the front-end development of InSite, where I focus on creating and enhancing features for browser extensions. My expertise includes TypeScript, which I’ve recently mastered to further elevate my development skills.
 
 I specialize in building responsive web applications using React and Tailwind CSS, integrating APIs for dynamic real-time data, and developing secure, high-performance solutions. Additionally, I'm advancing my skills in Node.js to design dynamic, scalable web applications.
-I'm open to contributing to open-source projects! If you’re interested in collaborating on HTML, CSS, JavaScript, React, Node.js, or TypeScript projects, let's connect!
+I'm open to contributing to open-source projects! If you’re interested in collaborating on HTML, CSS, JavaScript, React, Node.js, or TypeScript projects,
+let's connect!
+
 Thank you for visiting my profile! 🚀
 
 
