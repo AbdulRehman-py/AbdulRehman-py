@@ -1,7 +1,9 @@
 **Hi there 👋**  
+
 I'm Abdul Rehman, Frontend Developer. Welcome to my GitHub profile!  
 
 ### About Me  
+
 🔭 I'm a passionate full-stack developer dedicated to creating seamless web experiences.  
 
 🎨 I specialize in UI/UX design, crafting visually stunning and user-centric websites.  
